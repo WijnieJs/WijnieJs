@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WijnieJs
 - 👀 I’m a real technology lover.
-- 🌱 I am interrested and want too learn everyting. For now my main focus is on JavaScript. I want too help all projects about Climatechange and agriculture solutions.
-- 💞️ I’m looking to collaborate on ...Projects that inspire me, the best perfomance is when we feel some emotional unitiy with the project. 
+- 🌱 I am interrested projects that inspire me, the best perfomance is when we feel some emotional unitiy with the project. 
 - 📫 How to reach me ... wijniejs@gmail.com
 
 
