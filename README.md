@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WijnieJs
 - 👀 I’m a real technology lover.
-- 🌱 I am interrested projects that inspire me, the best perfomance is when we feel some emotional unitiy with the project. 
+- 🌱 I am interrested in this.interests
 - 📫 How to reach me ... wijniejs@gmail.com
 
 
